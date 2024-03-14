@@ -1,7 +1,7 @@
 <div align="center">
     <img src="assets/app_logo.jpg" width="128" height="128" style="display: block; margin: 0 auto"/>
     <h1>Gemini Chat Bot 🎶</h1>
-    <p>A fully functional Android quiz game featuring audio challenges, leaderboards, and multiple categories.</p>
+<!--     <p>A fully functional Android quiz game featuring audio challenges, leaderboards, and multiple categories.</p> -->
 </div>
 
 # Gemini Chat Bot ✨
@@ -24,7 +24,7 @@ Gemini Chat Bot is an Android app that lets you chat with AI powered by [Gemini]
 
 ## Video Preview 📹
 
-[![Video Preview]()](https://github.com/spongycode/song-quest/assets/65273165/08f1f156-683c-49bd-9451-53132774e2b9)
+<!-- [![Video Preview]()](https://github.com/spongycode/song-quest/assets/65273165/08f1f156-683c-49bd-9451-53132774e2b9) -->
 
 ## Getting Started 🚀
 To start using Spacee Gemini, clone the repository and open the project in Android Studio. Ensure you have an internet connection for interactive chat sessions.
