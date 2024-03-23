@@ -1,7 +1,7 @@
 <div align="center">
     <img src="assets/app_logo.jpg" width="128" height="128" style="display: block; margin: 0 auto"/>
-    <h1>Gemini Chat Bot 🎶</h1>
-<!--     <p>A fully functional Android quiz game featuring audio challenges, leaderboards, and multiple categories.</p> -->
+    <h1> Gemini Chat Bot 🎶 </h1>
+<!--     <p> A fully functional Android quiz game featuring audio challenges, leaderboards, and multiple categories.</p> -->
 </div>
 
 # Gemini Chat Bot ✨
